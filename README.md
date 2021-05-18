@@ -6,6 +6,7 @@ Programming language use to build Backend of this website is Java.
 
 
 STRUCTURE
+
 Structure of the project files is done by following MVC Structure. Which includes 3 Components:
 
 Model
