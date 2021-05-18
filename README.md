@@ -1,5 +1,7 @@
 # CSE470-Poject
-A Bank Management System following MVC Structure which can give services to people for different criteria in Bank system.
+A Bank Management System following MVC Structure which can give services to people for different criteria in Banking system.
+
+
 Programming language use to build Backend of this website is Java.
 
 
