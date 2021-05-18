@@ -34,11 +34,18 @@ Controller
 Features of the website :
 
 .Users can login using only with their pin number and card number.
+
 .Login can be done if the user have an existing account.
+
 .If the user does not have an account , they can register for a new account.
+
 .For signing up , the user has to fill up three forms.
+
 .If the user want to change their pin number, they can change it by resetting their pin number.
+
 .User can deposite money entering their pin number.
+
 .User can also withdraw money entering their pin number.
+
 .User can do transactions of money according to their will as there are many criteria given in the site.
 
