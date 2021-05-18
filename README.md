@@ -8,7 +8,7 @@ A Bank Management System following MVC Structure which can give services to peop
 Programming language use to build Backend of this website is Java.
 
 
-STRUCTURE :
+# STRUCTURE :
 
 Structure of the project files is done by following MVC Structure. Which includes 3 Components:
 
@@ -31,7 +31,7 @@ Controller
 - Communicates with both Model and View.
 - Contains all server side logic.
 
-FEATURES OF THE WEBSITE :
+# FEATURES OF THE WEBSITE :
 
 .Users can login using only with their pin number and card number.
 
