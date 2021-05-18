@@ -1,4 +1,7 @@
 # CSE470-Poject
+
+BANK MANAGEMENT SYSTEM
+
 A Bank Management System following MVC Structure which can give services to people for different criteria in Banking system.
 
 
